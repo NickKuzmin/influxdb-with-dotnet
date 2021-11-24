@@ -17,6 +17,7 @@ influxdb.conf
 
 ```
 SELECT * FROM cpu
+select * from cpu where time >= now() - 5m
 ```
 
 ```
