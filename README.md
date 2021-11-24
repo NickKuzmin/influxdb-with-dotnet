@@ -15,5 +15,7 @@ influxdb.conf
 
 ```use example```
 
-```INSERT cpu,host=serverA,region=us_west value=0.64```
+```
+INSERT cpu,host=serverA,region=us_west value=0.64
+```
 ------------------
