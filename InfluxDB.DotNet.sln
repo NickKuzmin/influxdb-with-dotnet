@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28729.10
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InfluxDB.DotNet", "InfluxDB.DotNet\InfluxDB.DotNet.csproj", "{27FA4D48-E279-4C4F-9370-77CA4EB92EA5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InfluxDB.DotNet.ConsoleRunner", "InfluxDB.DotNet.ConsoleRunner\InfluxDB.DotNet.ConsoleRunner.csproj", "{432B3877-FB3E-44D7-B445-C7EA0326B666}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27FA4D48-E279-4C4F-9370-77CA4EB92EA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27FA4D48-E279-4C4F-9370-77CA4EB92EA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27FA4D48-E279-4C4F-9370-77CA4EB92EA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27FA4D48-E279-4C4F-9370-77CA4EB92EA5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{432B3877-FB3E-44D7-B445-C7EA0326B666}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{432B3877-FB3E-44D7-B445-C7EA0326B666}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{432B3877-FB3E-44D7-B445-C7EA0326B666}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{432B3877-FB3E-44D7-B445-C7EA0326B666}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0B87A4EE-5553-4411-B20A-65BA011A582E}
+	EndGlobalSection
+EndGlobal
