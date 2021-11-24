@@ -16,6 +16,13 @@ influxdb.conf
 ```use example```
 
 ```
+SELECT * FROM cpu
+```
+
+```
 INSERT cpu,host=serverA,region=us_west value=0.64
 ```
 ------------------
+- InfluxDb storage folder:
+```c:\Users\<username>\.influxdb\data\```
+
