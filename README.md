@@ -15,6 +15,8 @@ influxdb.conf
 
 ```show measurements```
 
+```drop measurement cpu``` ("cpu" - is the name of measurement)
+
 ```use example```
 
 ```
