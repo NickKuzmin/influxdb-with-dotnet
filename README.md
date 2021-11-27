@@ -55,4 +55,16 @@ curl -i -XPOST 'http://localhost:8086/write?db=mydb' --data-binary @cpu_data.txt
 ------------------
 - InfluxDb storage folder:
 ```c:\Users\<username>\.influxdb\data\```
+------------------
+### Grafana:
 
+```http://localhost:3000/login```
+
+> https://grafana.com/docs/grafana/latest/getting-started/getting-started-influxdb/
+
+```
+Open your web browser and go to http://localhost:3000/. The default HTTP port that Grafana listens to is 3000 unless you have configured a different port.
+On the login page, enter admin for username and password.
+Click Log in. If login is successful, then you will see a prompt to change the password.
+Click OK on the prompt, then change your password.
+```
