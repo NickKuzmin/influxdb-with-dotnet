@@ -13,6 +13,8 @@ influxdb.conf
 
 ```show databases```
 
+```show measurements```
+
 ```use example```
 
 ```
